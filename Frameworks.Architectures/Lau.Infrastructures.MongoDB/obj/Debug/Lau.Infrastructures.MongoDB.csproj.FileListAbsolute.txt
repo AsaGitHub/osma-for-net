@@ -1,0 +1,1 @@
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.MongoDB\obj\Debug\Lau.Infrastructures.MongoDB.csprojResolveAssemblyReference.cache

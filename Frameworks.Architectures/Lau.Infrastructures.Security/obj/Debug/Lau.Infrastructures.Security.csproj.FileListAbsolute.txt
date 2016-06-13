@@ -1,0 +1,4 @@
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Security\bin\Debug\Lau.Infrastructures.Security.dll
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Security\bin\Debug\Lau.Infrastructures.Security.pdb
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Security\obj\Debug\Lau.Infrastructures.Security.dll
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Security\obj\Debug\Lau.Infrastructures.Security.pdb

@@ -1,0 +1,5 @@
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Utility\bin\Debug\Lau.Infrastructures.Utility.dll
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Utility\bin\Debug\Lau.Infrastructures.Utility.pdb
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Utility\obj\Debug\Lau.Infrastructures.Utility.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Utility\obj\Debug\Lau.Infrastructures.Utility.dll
+D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Utility\obj\Debug\Lau.Infrastructures.Utility.pdb
