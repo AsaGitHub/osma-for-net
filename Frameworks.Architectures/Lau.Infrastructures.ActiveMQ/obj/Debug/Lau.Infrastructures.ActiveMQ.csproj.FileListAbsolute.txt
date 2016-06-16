@@ -2,3 +2,7 @@ D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Archi
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.ActiveMQ\bin\Debug\Lau.Infrastructures.ActiveMQ.pdb
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.ActiveMQ\obj\Debug\Lau.Infrastructures.ActiveMQ.dll
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.ActiveMQ\obj\Debug\Lau.Infrastructures.ActiveMQ.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.ActiveMQ\bin\Debug\Lau.Infrastructures.ActiveMQ.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.ActiveMQ\bin\Debug\Lau.Infrastructures.ActiveMQ.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.ActiveMQ\obj\Debug\Lau.Infrastructures.ActiveMQ.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.ActiveMQ\obj\Debug\Lau.Infrastructures.ActiveMQ.pdb

@@ -1,1 +1,11 @@
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.MongoDB\obj\Debug\Lau.Infrastructures.MongoDB.csprojResolveAssemblyReference.cache
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\obj\Debug\Lau.Infrastructures.MongoDB.csprojResolveAssemblyReference.cache
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\bin\Debug\Lau.Infrastructures.MongoDB.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\bin\Debug\Lau.Infrastructures.MongoDB.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\bin\Debug\MongoDB.Bson.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\bin\Debug\MongoDB.Driver.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\bin\Debug\MongoDB.Bson.xml
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\bin\Debug\MongoDB.Driver.xml
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\obj\Debug\Lau.Infrastructures.MongoDB.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.MongoDB\obj\Debug\Lau.Infrastructures.MongoDB.pdb

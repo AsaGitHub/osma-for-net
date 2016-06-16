@@ -2,3 +2,7 @@ D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Archi
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Search\bin\Debug\Lau.Infrastructures.Search.pdb
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Search\obj\Debug\Lau.Infrastructures.Search.dll
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Search\obj\Debug\Lau.Infrastructures.Search.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Search\bin\Debug\Lau.Infrastructures.Search.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Search\bin\Debug\Lau.Infrastructures.Search.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Search\obj\Debug\Lau.Infrastructures.Search.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Search\obj\Debug\Lau.Infrastructures.Search.pdb

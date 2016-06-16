@@ -1,21 +1,16 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System.Text;
+using System.Collections.Generic;
+using System.Linq;
 using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Lau.UnitTest.TestCases
+namespace Simulated.Targets.CW
 {
-    [TestClass]
-    public class UnitTest1
+    class Program
     {
-        public UnitTest1() { }
-
-        [TestMethod]
-        public void TestMethod1()
+        static void Main(string[] args)
         {
-            
-            string abc = ToMD5String("123456");
-            int a = 0;
         }
 
         public string ToMD5String(string value)
@@ -23,7 +18,7 @@ namespace Lau.UnitTest.TestCases
             return GetMD5(string.Concat(GetMD5(value), "KupartsY"));//增加加密复杂度
         }
 
-        internal  string GetMD5(string str)
+        public string GetMD5(string str)
         {
             byte[] data = MD5.Create().ComputeHash(Encoding.UTF8.GetBytes(str));
             StringBuilder sb = new StringBuilder();
@@ -31,11 +26,7 @@ namespace Lau.UnitTest.TestCases
             for (int i = 0; i < data.Length; i++)
                 sb.Append(data[i].ToString("x2"));
 
-            //e10adc3949ba59abbe56e057f20f883e
-
             return sb.ToString();
         }
-
-
     }
 }

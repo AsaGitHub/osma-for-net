@@ -3,3 +3,8 @@ D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Archi
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Logging\obj\Debug\Lau.Infrastructures.Logging.csprojResolveAssemblyReference.cache
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Logging\obj\Debug\Lau.Infrastructures.Logging.dll
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Logging\obj\Debug\Lau.Infrastructures.Logging.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Logging\bin\Debug\Lau.Infrastructures.Logging.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Logging\bin\Debug\Lau.Infrastructures.Logging.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Logging\obj\Debug\Lau.Infrastructures.Logging.csprojResolveAssemblyReference.cache
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Logging\obj\Debug\Lau.Infrastructures.Logging.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Logging\obj\Debug\Lau.Infrastructures.Logging.pdb

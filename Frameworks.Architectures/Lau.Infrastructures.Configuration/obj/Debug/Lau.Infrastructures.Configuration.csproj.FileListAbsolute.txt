@@ -2,3 +2,7 @@ D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Archi
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Configuration\bin\Debug\Lau.Infrastructures.Configuration.pdb
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Configuration\obj\Debug\Lau.Infrastructures.Configuration.dll
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Configuration\obj\Debug\Lau.Infrastructures.Configuration.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Configuration\bin\Debug\Lau.Infrastructures.Configuration.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Configuration\bin\Debug\Lau.Infrastructures.Configuration.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Configuration\obj\Debug\Lau.Infrastructures.Configuration.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Configuration\obj\Debug\Lau.Infrastructures.Configuration.pdb

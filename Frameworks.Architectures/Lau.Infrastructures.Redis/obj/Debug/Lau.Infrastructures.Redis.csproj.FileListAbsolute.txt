@@ -3,3 +3,8 @@ D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Archi
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Redis\obj\Debug\Lau.Infrastructures.Redis.csprojResolveAssemblyReference.cache
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Redis\obj\Debug\Lau.Infrastructures.Redis.dll
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.Redis\obj\Debug\Lau.Infrastructures.Redis.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Redis\bin\Debug\Lau.Infrastructures.Redis.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Redis\bin\Debug\Lau.Infrastructures.Redis.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Redis\obj\Debug\Lau.Infrastructures.Redis.csprojResolveAssemblyReference.cache
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Redis\obj\Debug\Lau.Infrastructures.Redis.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.Redis\obj\Debug\Lau.Infrastructures.Redis.pdb

@@ -2,3 +2,7 @@ D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Archi
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.NanoProfiler\bin\Debug\Lau.Infrastructures.NanoProfiler.pdb
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.NanoProfiler\obj\Debug\Lau.Infrastructures.NanoProfiler.dll
 D:\Microsoft Visual Studio\Microsoft Visual Studio 14.0 Project\Frameworks.Architectures\Lau.Infrastructures.NanoProfiler\obj\Debug\Lau.Infrastructures.NanoProfiler.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.NanoProfiler\bin\Debug\Lau.Infrastructures.NanoProfiler.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.NanoProfiler\bin\Debug\Lau.Infrastructures.NanoProfiler.pdb
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.NanoProfiler\obj\Debug\Lau.Infrastructures.NanoProfiler.dll
+D:\osma-for-net\osma-for-net\Frameworks.Architectures\Lau.Infrastructures.NanoProfiler\obj\Debug\Lau.Infrastructures.NanoProfiler.pdb
